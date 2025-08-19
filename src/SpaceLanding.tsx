@@ -177,7 +177,7 @@ const SpaceXLanding = () => {
         </div>
       </div>
 
-      {/* Center - Planet (positioned exactly as original for desktop, responsive for mobile) */}
+      {/* Center - Planet */}
       <div className="fixed inset-0 pointer-events-none z-10">
         <img
           src="/moon.png"
